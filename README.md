@@ -1,10 +1,10 @@
 # Dylan Festa  — @dylanfesta 
 
-<a href="https://twitter.com/dylanfesta?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dylanfesta</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/dylanfesta.svg?style=social)](https://twitter.com/dylanfesta)  
+
 
 **Postdoctoral Researcher [@Coen-Cagli Lab](https://sites.google.com/site/rubencoencagli/)**
-
-<a class="twitter-timeline" href="https://twitter.com/DylanFesta?ref_src=twsrc%5Etfw">Tweets by DylanFesta</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <!--
 **dylanfesta/dylanfesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
