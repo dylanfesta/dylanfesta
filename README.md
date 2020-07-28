@@ -9,8 +9,7 @@ Pronouns: he/him/his
 
 🎓 Currently looking for a new Postdoc position in Computational Neuroscience, with preference for the EU area and/or remote work.
 
-[My CV !](./static/FestaD_cv.pdf)
-
+[My CV !](https://github.com/dylanfesta/dylanfesta/raw/master/static/FestaD_cv.pdf)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
