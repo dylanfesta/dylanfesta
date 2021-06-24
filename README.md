@@ -1,10 +1,8 @@
 # Hello ! I am Dylan Festa 👋 🤓
 
-**Postdoctoral Researcher [@Coen-Cagli Lab](https://sites.google.com/site/rubencoencagli/)**
+**Postdoctoral Researcher [@Gjorgjieva Lab](https://brain.mpg.de/gjor)**
 
 *Pronouns: he/him/his*
-
-🎓 Currently looking for a new Postdoc position in Computational Neuroscience, with preference for the EU area and/or remote work.
 
 [My CV !](https://github.com/dylanfesta/dylanfesta/raw/master/static/FestaD_cv.pdf)
 
