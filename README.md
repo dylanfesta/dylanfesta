@@ -9,10 +9,9 @@
 ## Connect with me
 
 | Twitter | Mastodon | LinkedIN |
-|:-:|:-:|
-[![Twitter Follow](https://img.shields.io/twitter/follow/dylanfesta.svg?style=social)](https://twitter.com/dylanfesta) |
-<a rel="me" href="https://scholar.social/@dylanfesta"> <img align="center" alt="Dylan Festa on Mastodon" src="https://img.shields.io/badge/-@dylanfesta@scholar.social-%232B90D9?style=flat-square&logo=mastodon&logoColor=white"/> </a>| <a href="https://www.linkedin.com/in/dylanfesta/">  <img align="center" alt="Dylan Festa Linkedin" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
-</a>
+| :-----: | :----: | :-------: |
+[![Twitter Follow](https://img.shields.io/twitter/follow/dylanfesta.svg?style=social)](https://twitter.com/dylanfesta) | <a rel="me" href="https://scholar.social/@dylanfesta"> <img align="center" alt="Dylan Festa on Mastodon" src="https://img.shields.io/badge/-@dylanfesta@scholar.social-%232B90D9?style=flat-square&logo=mastodon&logoColor=white"/> </a>| <a href="https://www.linkedin.com/in/dylanfesta/">  <img align="center" alt="Dylan Festa Linkedin" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+</a> 
 
 <!--
 - 🔭 I’m currently working on ...
