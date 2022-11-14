@@ -2,7 +2,7 @@
 
 **Postdoctoral Researcher [@Gjorgjieva Lab](https://www1.ls.tum.de/compneuro/home/)**
 
-*Pronouns: he/him/his*
+*(he/him/his)* :it: 🍕🍷😴
 
 [My CV !](https://github.com/dylanfesta/dylanfesta/raw/master/static/FestaD_cv.pdf)
 
