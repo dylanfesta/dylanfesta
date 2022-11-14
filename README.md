@@ -1,16 +1,17 @@
 # Hello ! I am Dylan Festa 👋 🤓
 
-**Postdoctoral Researcher [@Gjorgjieva Lab](https://brain.mpg.de/gjor)**
+**Postdoctoral Researcher [@Gjorgjieva Lab](https://www1.ls.tum.de/compneuro/home/)**
 
 *Pronouns: he/him/his*
 
 [My CV !](https://github.com/dylanfesta/dylanfesta/raw/master/static/FestaD_cv.pdf)
 
-## Connect with me 
+## Connect with me
 
-| Twitter | LinkedIN |
+| Twitter | Mastodon | LinkedIN |
 |:-:|:-:|
-[![Twitter Follow](https://img.shields.io/twitter/follow/dylanfesta.svg?style=social)](https://twitter.com/dylanfesta) | <a href="https://www.linkedin.com/in/dylanfesta/">  <img align="center" alt="Dylan Festa Linkedin" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+[![Twitter Follow](https://img.shields.io/twitter/follow/dylanfesta.svg?style=social)](https://twitter.com/dylanfesta) |
+<a rel="me" href="https://scholar.social/@dylanfesta"> <img align="center" alt="Dylan Festa on Mastodon" src="https://img.shields.io/badge/-@dylanfesta@scholar.social-%232B90D9?style=flat-square&logo=mastodon&logoColor=white"/> </a>| <a href="https://www.linkedin.com/in/dylanfesta/">  <img align="center" alt="Dylan Festa Linkedin" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
 </a>
 
 <!--
