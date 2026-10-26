@@ -4,7 +4,7 @@
 
 *(he/him/his)* :it: 🍕🍷😴
 
-[My CV !](https://github.com/dylanfesta/dylanfesta/raw/master/static/FestaD_cv.pdf)
+[My CV !](https://github.com/dylanfesta/dylanfesta/raw/main/static/FestaD_cv.pdf)
 
 ## Connect with me
 
